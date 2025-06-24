@@ -46,7 +46,7 @@ With over **3 years of hands-on experience**, I’ve worked across data, backend
 - ✉️ Email: danielkioko.dev@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kithekadankioko/)  
 - 💻 [GitHub Portfolio](https://github.com/dkkiooko)  
-- 🌐 Personal Site (Coming soon)
+- 🌐 [Personal Site](https://www.dankioko.co.ke)
 
 ---
 
